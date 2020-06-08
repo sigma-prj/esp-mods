@@ -16,7 +16,7 @@ additional configuration based on your current ESP SDK setup and build environme
 In order to make full project build and execution please refer full guidance
 at the following YouTube Video:
 
-...
+https://www.youtube.com/watch?v=zjnGn_kKrik
 
 ESP Mods
 =======
