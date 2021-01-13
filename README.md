@@ -1,5 +1,3 @@
-esp8266-console
-
 ESP8266 HTTP Rest API Client sample modules
 -----------------------------
 
