@@ -1,11 +1,11 @@
 ESP8266 HTTP Rest API Client sample modules
------------------------------
+=============================
 
 This repository provides some examples in respect of how to use ESP8266 as HTTP Rest API Client,
 and represents some other useful utilities.
 
 Requirements and Dependencies
-=============================
+-----------------------------
 
 This repository contains some C-code reference samples only
 and it is not considered as complete project to make an executable
@@ -17,7 +17,7 @@ at the following YouTube Video:
 https://www.youtube.com/watch?v=zjnGn_kKrik
 
 ESP Mods
-=======
+-----------------------------
 
 This repository represents the following C-programming language modules for ESP8266:
 
@@ -32,7 +32,7 @@ This repository represents the following C-programming language modules for ESP8
               ESP SDK enums as string values.
 
 License
-=======
+-----------------------------
 
 ESP8266 HTTP Rest API Client sample modules
 
